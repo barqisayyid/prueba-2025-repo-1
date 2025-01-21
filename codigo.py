@@ -1,4 +1,4 @@
-nombre = "Robin"
+nombre = "Robin Nami Boa"
 
 apellido = "Suaaan"
 
